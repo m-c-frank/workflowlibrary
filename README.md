@@ -39,8 +39,6 @@
 
 ## Related Tools
 
-**Note Utilities Ecosystem**: A suite of tools designed to streamline and enhance your note-taking and information processing workflows.
-
 <!--START_TOKEN-->
 **Note Utilities Ecosystem**: A suite of tools designed to streamline and enhance your note-taking and information processing workflows.
 
